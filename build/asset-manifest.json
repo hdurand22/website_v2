@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/website_v2/static/css/main.0e4c4da0.css",
+    "main.js": "/website_v2/static/js/main.ab222b11.js",
+    "static/js/787.40303df4.chunk.js": "/website_v2/static/js/787.40303df4.chunk.js",
+    "static/media/ATo_PhD_Thesis.pdf": "/website_v2/static/media/ATo_PhD_Thesis.e3ec8eed2c95904cbfe2.pdf",
+    "static/media/careworkshop.jpg": "/website_v2/static/media/careworkshop.0ae30462a8fa9c7bfc8e.jpg",
+    "static/media/ned.gif": "/website_v2/static/media/ned.da1bc99fd6ea219b1e53.gif",
+    "static/media/boston2.png": "/website_v2/static/media/boston2.500c1bfcd4a50e04d130.png",
+    "static/media/fa-solid-900.svg": "/website_v2/static/media/fa-solid-900.c8a5f7410ef2a4d63988.svg",
+    "static/media/fa-brands-400.svg": "/website_v2/static/media/fa-brands-400.83494ca2906755eeae18.svg",
+    "static/media/TTGD_Icons.png": "/website_v2/static/media/TTGD_Icons.fdda9c907788fe430135.png",
+    "static/media/AlexandraTo_ResearchStatement.pdf": "/website_v2/static/media/AlexandraTo_ResearchStatement.c0672217d1891272113b.pdf",
+    "static/media/flashteams.jpg": "/website_v2/static/media/flashteams.7d085f384805721ae48d.jpg",
+    "static/media/profile.png": "/website_v2/static/media/profile.0841dd0e95e25c66dcd0.png",
+    "static/media/fa-solid-900.eot": "/website_v2/static/media/fa-solid-900.2f6dbd9f998fa1413ff7.eot",
+    "static/media/fa-solid-900.ttf": "/website_v2/static/media/fa-solid-900.9b4d14a5508e9cc4ca88.ttf",
+    "static/media/outbreak.png": "/website_v2/static/media/outbreak.9cf667f93f5526fbe70e.png",
+    "static/media/diversityarkham.jpg": "/website_v2/static/media/diversityarkham.3ad7843df0b5223dcc36.jpg",
+    "static/media/fa-regular-400.svg": "/website_v2/static/media/fa-regular-400.024286359541b224631b.svg",
+    "static/media/fa-brands-400.eot": "/website_v2/static/media/fa-brands-400.85917bf21118aa3f2e14.eot",
+    "static/media/fa-brands-400.ttf": "/website_v2/static/media/fa-brands-400.70150a2b3a50f84aff70.ttf",
+    "static/media/ATo_CV.pdf": "/website_v2/static/media/ATo_CV.422d5ef81451bd32f7f9.pdf",
+    "static/media/fa-solid-900.woff": "/website_v2/static/media/fa-solid-900.e4efd599b7afce2f7b21.woff",
+    "static/media/fa-brands-400.woff": "/website_v2/static/media/fa-brands-400.cac133c03011645ba509.woff",
+    "static/media/fa-solid-900.woff2": "/website_v2/static/media/fa-solid-900.acc6b6bf6c3214aeb3ef.woff2",
+    "static/media/fa-brands-400.woff2": "/website_v2/static/media/fa-brands-400.dd7467859e54d3b9dae6.woff2",
+    "static/media/overlay.png": "/website_v2/static/media/overlay.eac66bf8c62149214ee2.png",
+    "static/media/fa-regular-400.eot": "/website_v2/static/media/fa-regular-400.6810be1da91e3f344935.eot",
+    "static/media/fa-regular-400.ttf": "/website_v2/static/media/fa-regular-400.a3b4cd30799e10f5fbc2.ttf",
+    "static/media/fa-regular-400.woff": "/website_v2/static/media/fa-regular-400.8a7914c9eb0f44af5d33.woff",
+    "static/media/fa-regular-400.woff2": "/website_v2/static/media/fa-regular-400.a3f7358b4bd2b708c04d.woff2",
+    "static/media/pic02.jpg": "/website_v2/static/media/pic02.051ce0177fab1f36ce9a.jpg",
+    "index.html": "/website_v2/index.html",
+    "main.0e4c4da0.css.map": "/website_v2/static/css/main.0e4c4da0.css.map",
+    "main.ab222b11.js.map": "/website_v2/static/js/main.ab222b11.js.map",
+    "787.40303df4.chunk.js.map": "/website_v2/static/js/787.40303df4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e4c4da0.css",
+    "static/js/main.ab222b11.js"
+  ]
+}
